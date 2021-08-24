@@ -1,6 +1,7 @@
 $(window).load(function(){
 	$('.loading').fadeOut('fast');
 	$('.container').fadeIn('fast');
+	$('body').addClass('rhp');
 });
 $('document').ready(function(){
 		var vw;
