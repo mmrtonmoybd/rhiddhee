@@ -7,11 +7,6 @@ body {
 	-ms-transition:background-color linear 5s;
 	transition:background-color linear 5s;
 	overflow-x:hidden;
-	
-}
-.rhp {
- background-image: url("rhiddhee.jpg");
- background-color: #000;
 }
 .container {
 	display: none;
@@ -1304,12 +1299,3 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
-
-
-
-    /*controlling tablet width*/
-    /*@media only screen and (max-width: 720px){
-    	.container {
-    		-webkit-transform: scale(0.9);
-    	}
-    }*/
